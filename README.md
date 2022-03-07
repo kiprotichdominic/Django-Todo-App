@@ -3,6 +3,7 @@
 - Kiprotich Dominic Korir
 ### Description  
 To Do list app built Django. Users Can Register, Login and full Create Read Update and DELETE functionality.
+### Live Link = https://jangotodoapp.herokuapp.com/
 ### User Story  
   
 * Sign Up the Sign in to the application to start using.  
